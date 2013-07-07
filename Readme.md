@@ -14,7 +14,6 @@ Agenda (if time permits)
 * Dealing with legacy code - Migration Strategy
 * Error handling - Domains?
 
------------------------------------------------------------------------
 
 I need help with a name for a coming talk. it's about decisions we had to make while building a full-stack js app. things like web framework, oo vs functional style, control-flow aproach, organizing the client-side etc.
 Here are some ideas for a name - 2. A Guide to Navigate the Node Jungle  2. The Hitchhiker's Guide to Node  3. 2013: A JavaScript Odyssey - one company's journey to Node
@@ -51,3 +50,5 @@ About the presenter:
 When not collecting Hello Kitty accessories, 
 Oren like to create things and break them apart.
 Rumors say he eating Oat-meal with JavaScript for breakfest.
+
+
