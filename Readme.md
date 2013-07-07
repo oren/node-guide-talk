@@ -13,14 +13,18 @@ I'll share code and practices that are applicable immediately to any JavaScript 
 * Client side code - CommonJS vs AMD
 * Code style - OO vs Functional
 * Control Flow - Callbacks vs Promises
-* Error handling - Domains?
+* Error handling - Domains?	
+
+When asynchronous style finally makes sense:
+
+![async](http://media.tumblr.com/f9b64e7703d0fd6d8724e1429ede4991/tumblr_inline_mniepuRpmh1qz4rgp.gif)
 
 # Building a framework-free Website
 
 This is a hands-on session and attendees will be able to code with me if they want to.
 
-Everyday someone new to Node is asking 'how to create a website' on the IRC and usually she is being directed to express.js, the most popular web framework in Node.
-But as you get closer to the core Noder (Isaacs, Substack, Mikeal etc) you noticed that many of them don't use any framework to build their websites or web service. Where is this gap coming from? This session we'll reveal together the 'secrets' of building a website that follows the Unix philosophy - small modules that works nicely with each other. After this session you'll have the foundations to create your own fast and lean website.
+Every day on IRC someone new to Node is asking how to create a website and usually she is being directed to express.js, the most popular web framework in Node.
+But as you get closer to the core Noders (Isaacs, Substack, Mikeal etc) you noticed that many of them don't use any framework to build their websites or web service. Where is this gap coming from? This session we'll reveal together the 'secrets' of building a website that follows the Unix Philosophy - small modules that works nicely with each other. After this session you'll have the foundations to create your own fast and lean website.
 
 ## Topics covered
 
@@ -28,3 +32,7 @@ But as you get closer to the core Noder (Isaacs, Substack, Mikeal etc) you notic
 * Templates
 * Serving static files
 * Handling errors
+
+My first 5 minutes without express.js:
+
+![slow cat](http://25.media.tumblr.com/be1dd90ba4316cc7e128e3b67bf6824b/tumblr_mnbpdoBQhB1r3gb3zo1_400.gif)
