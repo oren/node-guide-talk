@@ -10,19 +10,7 @@ I'll share code and practices that are applicable immediately to any JavaScript 
 ## Topics covered
 
 * Web frameworks Fight! Express vs Hapi vs http.createServer
-* Control Flow - Callbacks vs Promises
 * Client side code - CommonJS vs AMD
 * Code style - OO vs Functional
+* Control Flow - Callbacks vs Promises
 * Error handling - Domains?
-
-**About the presenter**
-
-![me](http://chicagowebconf.org/images/presenters/oren_golan.png)
-
-When not collecting Hello Kitty accessories, Oren like to create things and break them apart. He hack on Node.js at YP.com and eat Javascript for breakfest.
-
-**Inspiration for the talk's title**
-
-![don't panic book](http://www.coverbrowser.com/image/douglas-adams-books/125-6.jpg)
-
-
