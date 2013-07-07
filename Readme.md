@@ -15,7 +15,7 @@ I'll share code and practices that are applicable immediately to any JavaScript 
 * Control Flow - Callbacks vs Promises
 * Error handling - Domains?	
 
-# Building a framework-free Website
+# Building a Framework-free Website
 
 This is a hands-on session and attendees will be able to code with me if they want to.
 
