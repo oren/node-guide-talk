@@ -15,10 +15,6 @@ I'll share code and practices that are applicable immediately to any JavaScript 
 * Control Flow - Callbacks vs Promises
 * Error handling - Domains?	
 
-When asynchronous style finally makes sense:
-
-![async](http://media.tumblr.com/f9b64e7703d0fd6d8724e1429ede4991/tumblr_inline_mniepuRpmh1qz4rgp.gif)
-
 # Building a framework-free Website
 
 This is a hands-on session and attendees will be able to code with me if they want to.
@@ -33,6 +29,3 @@ But as you get closer to the core Noders (Isaacs, Substack, Mikeal etc) you noti
 * Serving static files
 * Handling errors
 
-My first 5 minutes without express.js:
-
-![slow cat](http://25.media.tumblr.com/be1dd90ba4316cc7e128e3b67bf6824b/tumblr_mnbpdoBQhB1r3gb3zo1_400.gif)
